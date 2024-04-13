@@ -49,7 +49,7 @@
   <tr border="none" width="100%">
   <td width="100%" align="center">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chdean-09&show_icons=true&theme=codeSTACKr&show=reviews,prs_merged_percentage&hide=stars,issues&include_all_commits=true&rank_icon=percentile&card_width=320" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdean-09&layout=compact&theme=codeSTACKr&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdean-09&layout=compact&theme=codeSTACKr&card_width=220" />
   </td>
   </tr>
 </table>
