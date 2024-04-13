@@ -8,13 +8,11 @@
   </span>
 </div>
 
-
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/chdean-09/chdean-09/blob/main/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/chdean-09/chdean-09/blob/main/resources/grid-snake.svg" alt="snake" />
 </div>
-
+<hr>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -22,7 +20,6 @@
     <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on school projects
@@ -34,6 +31,13 @@
 - ⚡ Fun fact: there are no facts that are fun
 <!--Intro end-->
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Stats</h2></summary>
+  </ul>
+</div>
+
 <!--- stats (start) -->
 <table align="center">
   <tr border="none" width="100%">
@@ -44,12 +48,11 @@
 
   <tr border="none" width="100%">
   <td width="100%" align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chdean-09&show_icons=true&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&rank_icon=percentile" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdean-09&layout=donut&theme=codeSTACKr" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chdean-09&show_icons=true&theme=codeSTACKr&show=reviews,prs_merged_percentage&hide=stars,issues&include_all_commits=true&rank_icon=percentile" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdean-09&layout=compact&theme=codeSTACKr" />
   </td>
   </tr>
 </table>
-
 <!--- stats (end) -->
 
 <!--horizontal divider(gradiant)-->
