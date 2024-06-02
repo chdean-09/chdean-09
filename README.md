@@ -22,7 +22,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on school projects
+- 🔭 I’m currently working on side projects
   
 - 🌱 I’m currently learning web development
   
