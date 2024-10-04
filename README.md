@@ -1,7 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 <div align="center">
   <span>
     <h1>Hello, I'm Chad 👋</h1>
@@ -14,7 +13,6 @@
 </div>
 <hr>
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About Me</h2></summary>
@@ -31,7 +29,6 @@
 - ⚡ Fun fact: there are no facts that are fun
 <!--Intro end-->
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Stats</h2></summary>
