@@ -39,6 +39,18 @@
 <table align="center">
   <tr border="none" width="100%">
   <td width="100%" align="center">
+    <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/chdean-09"
+      width="600"
+      height="300"
+    />
+    </a>
+  </td>
+  
+  </tr>
+  <tr border="none" width="100%">
+  <td width="100%" align="center">
     <img src="https://streak-stats.demolab.com?user=chdean-09&theme=codestackr&mode=weekly" /> 
   </td>
   </tr>
